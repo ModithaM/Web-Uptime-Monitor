@@ -40,7 +40,7 @@
     "url": "https://www.tipfordiy.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.tipfordiy.com.ico",
     "slug": "tipfordiy-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,6 +51,8 @@
     "timeWeek": 402,
     "timeMonth": 402,
     "timeYear": 402,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-27": 0
+    }
   }
 ]
