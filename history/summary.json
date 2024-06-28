@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 70,
-    "timeDay": 144,
-    "timeWeek": 70,
-    "timeMonth": 70,
-    "timeYear": 70,
+    "time": 67,
+    "timeDay": 46,
+    "timeWeek": 67,
+    "timeMonth": 67,
+    "timeYear": 67,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 35,
-    "timeDay": 104,
-    "timeWeek": 35,
-    "timeMonth": 35,
-    "timeYear": 35,
+    "time": 33,
+    "timeDay": 14,
+    "timeWeek": 33,
+    "timeMonth": 33,
+    "timeYear": 33,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.tipfordiy.com.ico",
     "slug": "tipfordiy-blog",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 478,
-    "timeDay": 934,
-    "timeWeek": 478,
-    "timeMonth": 478,
-    "timeYear": 478,
-    "dailyMinutesDown": {
-      "2024-06-27": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 461,
+    "timeDay": 693,
+    "timeWeek": 461,
+    "timeMonth": 461,
+    "timeYear": 461,
+    "dailyMinutesDown": {}
   }
 ]
